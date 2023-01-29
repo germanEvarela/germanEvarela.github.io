@@ -1,11 +1,14 @@
 # germanEvarela.github.io
 Proyecto Final CV Programa 4.0
 
-fuentes
+Abrir index.html con Google para ver el proyecto.
 
-w3school.com
+Fuentes
+
+[Tutorial JavaScript](w3school.com)
 google.com
-https://webgradients.com/
+[Degradados](https://webgradients.com/)
 
 [Curso JavaScript desde cero](https://www.youtube.com/watch?v=z95mZVUcJ-E)
+
 [Css desde cero](https://www.youtube.com/watch?v=OWKXEJN67FE)
